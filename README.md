@@ -23,6 +23,11 @@
  
 <hr>
 
+### 🖼️ Screenshots: ###
+https://github.com/fuzelgora/Optimizistic/blob/master/IMAGES.md
+
+<hr>
+
 ### 💻 Compatibility: ###
 
 * Compatible with Windows 7, 8, 8.1, 10, 11
