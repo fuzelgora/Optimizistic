@@ -13,13 +13,13 @@
 
 ### ℹ️ About ### 
 
-* This all files will optimize your PC/LAPTOP.
+* This all files will optimize your PC/LAPTOP(Boost your pc).
 
 <hr> 
 
 ### ℹ️ How to use ###
 
-* Just click on those files 1 by 1 and click "run" if a dialog box appears, Then click "Allow" in second box, then click "Yes" on third box if appear. Done<br> you are all set. 
+* Just click on those files 1 by 1 and click "run" if a dialog box appears, Then click "Allow" in second box, then click "Yes" on third box if appear. Done you are all set. 
  
 <hr>
 
