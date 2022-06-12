@@ -11,6 +11,27 @@
 	</a>
 </p>
 
-* About  : this all files will optimize your PC/LAPTOP. 
+### ℹ️ About ### 
 
-* How to use : Just click on those files 1 by 1 and click "run" if a dialog box appears, Then click "Allow" in second box, then click "Yes" on third box if appear. Done you are all set.
+* This all files will optimize your PC/LAPTOP.
+
+<hr> 
+
+### ℹ️ How to use ###
+
+* Just click on those files 1 by 1 and click "run" if a dialog box appears, Then click "Allow" in second box, then click "Yes" on third box if appear. Done<br> you are all set. 
+ 
+<hr>
+
+### 💻 Compatibility: ###
+
+* Compatible with Windows 7, 8, 8.1, 10, 11
+
+<hr>
+
+### #️ Details: ###
+
+* Latest version: 1.0
+* Released: June 7, 2022
+
+<hr>
